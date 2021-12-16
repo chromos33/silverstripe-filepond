@@ -1,5 +1,5 @@
 {
-    "name": "LeKoala/silverstripe-filepond",
+    "name": "lekoala/silverstripe-filepond",
     "description": "Use FilePond fields in SilverStripe",
     "type": "silverstripe-vendormodule",
     "keywords": [
