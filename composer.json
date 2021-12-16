@@ -35,8 +35,8 @@
     },
     "autoload": {
         "psr-4": {
-            "LeKoala\\FilePond\\": "src/",
-            "LeKoala\\FilePond\\Test\\": "tests/"
+            "chromos33\\FilePond\\": "src/",
+            "chromos33\\FilePond\\Test\\": "tests/"
         }
     },
     "support": {
